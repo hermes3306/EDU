@@ -1,0 +1,113 @@
+Anaconda Download
+
+https://www.anaconda.com/distribution/
+
+
+
+수업시간에 사용될 파일
+
+https://drive.google.com/open?id=1jSelCmdurAkUQW38aDwRe4nHdPBdFUm3
+
+
+
+서울 공공자전거 따릉이 대여이력정보
+
+http://data.seoul.go.kr/dataList/datasetView.do?infId=OA-15182&srvType=F&serviceKind=1&currentPageNo=1
+
+
+
+Bike Sharing Demand
+
+https://www.kaggle.com/c/bike-sharing-demand
+
+
+
+Python Open Sources 공식문서들
+
+
+
+1. Numpy 공식문서
+
+http://www.numpy.org/
+
+
+
+1.1 Python, Numpy Tutorial (번역)
+
+http://aikorea.org/cs231n/python-numpy-tutorial/
+
+
+
+2. Pandas 공식문서
+
+http://pandas.pydata.org/
+
+
+
+2.1 10 Minutes to Pandas
+
+http://ourcstory.tistory.com/145
+
+
+
+3. Scikit-Learn 공식문서
+
+http://scikit-learn.org/stable/
+
+
+
+3.1 Scikit-Learn  간단소개(한글)
+
+https://github.com/brenden17/blog/blob/master/post/ms.scikit-learn.v.md
+
+
+
+4. Matplotlib 공식문서
+
+https://matplotlib.org/
+
+ 
+
+4.1 Matplotlib 소개
+
+https://datascienceschool.net/view-notebook/d0b1637803754bb083b5722c9f2209d0/
+
+
+
+
+
+5. 한장의 Image로 배우는 Python
+
+https://www.techworm.net/2016/10/learn-entire-python-language-single-image.html
+
+
+
+Python 데이터 시각화 라이브러리 소개
+
+
+
+Matplotlib 
+https://pythonspot.com/en/matplotlib/
+
+ 
+
+Seaborn
+http://stanford.edu/~mwaskom/software/seaborn/index.html
+
+
+
+Bokeh
+http://bokeh.pydata.org/en/latest/index.html
+
+
+
+Folium
+https://github.com/python-visualization/folium
+
+
+
+Plotnine
+https://plotnine.readthedocs.io/en/stable/
+[출처] 데이터사이언스 입문 with Python|작성자 vega2k
+
+
